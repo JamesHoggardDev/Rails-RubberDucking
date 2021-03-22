@@ -1,0 +1,14 @@
+<h1>Students SHOW PAGE</h1>
+
+<p><%= @student.name %></p>
+
+<h3>Owns these ducks:</h3>
+<% @student.ducks.each do |duck| %>
+    <p>Name: <%= duck.name %></p>
+    <p>Description:<%= duck.description %></p>
+<% end %>
+
+
+
+
+<%# Able to see a single student and [all the ducks](immediately think array) owned by that student %>

@@ -15,9 +15,9 @@ Make sure you handle your migrations appropriately!
 
 With this website, a user should be:
 
-* Able to see a list of all the students
+* # Able to see a list of all the students
 
-* Able to see a single student and all the ducks owned by that student
+* # Able to see a single student and all the ducks owned by that student
 
 * Able to log a new student (and make sure that their name is not blank/mod is
   between 1 and 5)
@@ -25,9 +25,9 @@ With this website, a user should be:
 * Able to edit a student's name (and make sure that their name is not blank/mod
   is between 1 and 5)
 
-* Able to see a list of all the ducks
+* # Able to see a list of all the ducks
 
-* Able to see a single duck and see all its details
+* # Able to see a single duck and see all its details
 
 * Able to edit a duck and its details
 
